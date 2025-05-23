@@ -1,0 +1,13 @@
+Student;Maria Petrova;15;Piano;8
+Student;Ivan Ivanov;12;Guitar;5
+Student;;12;Piano;10
+Manager;Vasil Yordanov;45;150000;8
+Teacher;Anna Kircheva;35;Piano;12;2500
+Student;Peter Dimitrov;17;Violin;10
+Student;Viktoria Georgieva;12;;10
+Teacher;Georgi Nikolov;42;Guitar;8;2200
+Teacher;Sofia Vasileva;28;Violin;15;2800
+Manager;Elena Dimitrova;38;120000;5
+Student;Gergana Todorova;-5;Piano;6
+Teacher;Diana Petrova;40;Violin;10;2000
+Student;Ivaylo Todorov;12;Piano;10
