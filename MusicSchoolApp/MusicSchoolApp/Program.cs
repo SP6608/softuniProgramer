@@ -57,11 +57,17 @@
                     Console.WriteLine($"Invalid data on line {br}: {ex.Message}");
                 }
             }//end foreach
-            foreach (var member in members)
+            foreach (var member in members.OrderBy(x=>x.Age))
             {
-
+                Console.WriteLine(member.Info());
+                Console.WriteLine(new string('-',10));
             }
-
+            //Инфо за учителите!
+            var teacher=members.OfType<Teacher>().OrderByDescending(x=>x.StudentsCount).FirstOrDefault();
+            if (teacher != null)
+            {
+                Console.WriteLine($"The teacher with the most students is {teacher.Name} with {teacher.StudentsCount} students");
+            }
 
         }
     }
