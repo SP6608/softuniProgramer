@@ -3,24 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\musicschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\musicschoolapp\\schoolmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\schoolmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\musicschoolapp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\musicschoolapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\musicschoolapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}|Zadacha26\\Zadacha26.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\zadacha26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}|Zadacha26\\Zadacha26.csproj|solutionrelative:zadacha26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SchoolMember.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\SchoolMember.cs",
-              "RelativeDocumentMoniker": "MusicSchoolApp\\SchoolMember.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\SchoolMember.cs",
-              "RelativeToolTip": "MusicSchoolApp\\SchoolMember.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:14:39.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Manager.cs",
-              "RelativeDocumentMoniker": "MusicSchoolApp\\Manager.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Manager.cs",
-              "RelativeToolTip": "MusicSchoolApp\\Manager.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:14:24.226Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Student.cs",
-              "RelativeDocumentMoniker": "MusicSchoolApp\\Student.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Student.cs",
-              "RelativeToolTip": "MusicSchoolApp\\Student.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAYwDQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:13:56.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Teacher.cs",
-              "RelativeDocumentMoniker": "MusicSchoolApp\\Teacher.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Teacher.cs",
-              "RelativeToolTip": "MusicSchoolApp\\Teacher.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAwEgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T12:13:31.307Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Program.cs",
-              "RelativeDocumentMoniker": "MusicSchoolApp\\Program.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Program.cs",
-              "RelativeToolTip": "MusicSchoolApp\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAswEQAAACBAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zadacha26\\Program.cs",
+              "RelativeDocumentMoniker": "Zadacha26\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zadacha26\\Program.cs",
+              "RelativeToolTip": "Zadacha26\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T20:53:12.456Z",
+              "WhenOpened": "2025-05-25T15:59:15.013Z",
               "EditorCaption": ""
             }
           ]
