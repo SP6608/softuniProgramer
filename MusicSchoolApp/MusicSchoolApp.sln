@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicSchoolApp", "MusicScho
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadacha26", "Zadacha26\Zadacha26.csproj", "{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zd26Nova", "Zd26Nova\Zd26Nova.csproj", "{3F9724E5-0380-484C-A809-EF623185820F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F9724E5-0380-484C-A809-EF623185820F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F9724E5-0380-484C-A809-EF623185820F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F9724E5-0380-484C-A809-EF623185820F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F9724E5-0380-484C-A809-EF623185820F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

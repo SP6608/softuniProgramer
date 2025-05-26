@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}|Zadacha26\\Zadacha26.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\zadacha26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBED93E3-7850-47A3-A825-E7C1C62BC4C5}|Zadacha26\\Zadacha26.csproj|solutionrelative:zadacha26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F9724E5-0380-484C-A809-EF623185820F}|Zd26Nova\\Zd26Nova.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\zd26nova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F9724E5-0380-484C-A809-EF623185820F}|Zd26Nova\\Zd26Nova.csproj|solutionrelative:zd26nova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zadacha26\\Program.cs",
-              "RelativeDocumentMoniker": "Zadacha26\\Program.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zadacha26\\Program.cs",
-              "RelativeToolTip": "Zadacha26\\Program.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAQwD8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "RelativeDocumentMoniker": "Zd26Nova\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "RelativeToolTip": "Zd26Nova\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T15:59:15.013Z",
+              "WhenOpened": "2025-05-26T16:35:53.047Z",
               "EditorCaption": ""
             }
           ]
