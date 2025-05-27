@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F9724E5-0380-484C-A809-EF623185820F}|Zd26Nova\\Zd26Nova.csproj|c:\\users\\pc home\\desktop\\githubprojects\\softuniprogramer\\musicschoolapp\\zd26nova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F9724E5-0380-484C-A809-EF623185820F}|Zd26Nova\\Zd26Nova.csproj|solutionrelative:zd26nova\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|c:\\users\\multimedia2\\desktop\\softuniprogramer\\musicschoolapp\\musicschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{011F7C11-0DEA-4552-A89C-DA6342B3D3C2}|MusicSchoolApp\\MusicSchoolApp.csproj|solutionrelative:musicschoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,14 +23,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
-              "RelativeDocumentMoniker": "Zd26Nova\\Program.cs",
-              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
-              "RelativeToolTip": "Zd26Nova\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDQAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "MusicSchoolApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\MusicSchoolApp\\Program.cs",
+              "RelativeToolTip": "MusicSchoolApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:35:53.047Z",
+              "WhenOpened": "2025-05-27T07:15:25.173Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "ToolTip": "C:\\Users\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\PC Home\\Desktop\\githubProjects\\softuniProgramer\\MusicSchoolApp\\Zd26Nova\\Program.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T16:35:53.047Z"
             }
           ]
         }

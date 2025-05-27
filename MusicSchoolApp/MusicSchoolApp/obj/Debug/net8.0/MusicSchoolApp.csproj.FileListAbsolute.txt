@@ -13,3 +13,18 @@ C:\Users\PC Home\Desktop\githubProjects\softuniProgramer\MusicSchoolApp\MusicSch
 C:\Users\PC Home\Desktop\githubProjects\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.pdb
 C:\Users\PC Home\Desktop\githubProjects\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.genruntimeconfig.cache
 C:\Users\PC Home\Desktop\githubProjects\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\ref\MusicSchoolApp.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\bin\Debug\net8.0\MusicSchoolApp.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\bin\Debug\net8.0\MusicSchoolApp.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\bin\Debug\net8.0\MusicSchoolApp.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\bin\Debug\net8.0\MusicSchoolApp.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\bin\Debug\net8.0\MusicSchoolApp.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\refint\MusicSchoolApp.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\MusicSchoolApp.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\MusicSchoolApp\obj\Debug\net8.0\ref\MusicSchoolApp.dll
