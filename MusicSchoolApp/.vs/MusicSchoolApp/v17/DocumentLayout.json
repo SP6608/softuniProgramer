@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A31C8E8A-9C2F-472A-9478-CDC87646E949}|10. Top Number\\10. Top Number.csproj|c:\\users\\multimedia2\\desktop\\softuniprogramer\\musicschoolapp\\10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A31C8E8A-9C2F-472A-9478-CDC87646E949}|10. Top Number\\10. Top Number.csproj|solutionrelative:10. top number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D116175-A530-48E6-A313-096315F778DC}|ArrayManupulation\\ArrayManupulation.csproj|c:\\users\\multimedia2\\desktop\\softuniprogramer\\musicschoolapp\\arraymanupulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D116175-A530-48E6-A313-096315F778DC}|ArrayManupulation\\ArrayManupulation.csproj|solutionrelative:arraymanupulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\10. Top Number\\Program.cs",
-              "RelativeDocumentMoniker": "10. Top Number\\Program.cs",
-              "ToolTip": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\10. Top Number\\Program.cs",
-              "RelativeToolTip": "10. Top Number\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\ArrayManupulation\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayManupulation\\Program.cs",
+              "ToolTip": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\MusicSchoolApp\\ArrayManupulation\\Program.cs",
+              "RelativeToolTip": "ArrayManupulation\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAoAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T06:40:31.221Z",
+              "WhenOpened": "2025-06-10T10:08:41.138Z",
               "EditorCaption": ""
             }
           ]

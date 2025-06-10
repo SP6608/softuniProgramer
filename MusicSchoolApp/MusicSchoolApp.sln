@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManupulationArray", "Manupu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{A31C8E8A-9C2F-472A-9478-CDC87646E949}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManupulation", "ArrayManupulation\ArrayManupulation.csproj", "{6D116175-A530-48E6-A313-096315F778DC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{A31C8E8A-9C2F-472A-9478-CDC87646E949}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A31C8E8A-9C2F-472A-9478-CDC87646E949}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A31C8E8A-9C2F-472A-9478-CDC87646E949}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D116175-A530-48E6-A313-096315F778DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D116175-A530-48E6-A313-096315F778DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D116175-A530-48E6-A313-096315F778DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D116175-A530-48E6-A313-096315F778DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
