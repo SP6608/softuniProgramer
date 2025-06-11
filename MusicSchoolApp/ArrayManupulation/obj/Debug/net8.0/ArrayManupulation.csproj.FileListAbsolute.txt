@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\bin\Debug\net8.0\ArrayManupulation.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\bin\Debug\net8.0\ArrayManupulation.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\bin\Debug\net8.0\ArrayManupulation.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\bin\Debug\net8.0\ArrayManupulation.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\bin\Debug\net8.0\ArrayManupulation.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\refint\ArrayManupulation.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ArrayManupulation.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\ArrayManupulation\obj\Debug\net8.0\ref\ArrayManupulation.dll

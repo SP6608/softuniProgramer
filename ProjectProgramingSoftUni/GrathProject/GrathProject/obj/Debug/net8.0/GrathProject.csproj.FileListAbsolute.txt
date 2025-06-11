@@ -1,0 +1,15 @@
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\bin\Debug\net8.0\GrathProject.exe
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\bin\Debug\net8.0\GrathProject.deps.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\bin\Debug\net8.0\GrathProject.runtimeconfig.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\bin\Debug\net8.0\GrathProject.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\bin\Debug\net8.0\GrathProject.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.AssemblyInfoInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.AssemblyInfo.cs
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.csproj.CoreCompileInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.sourcelink.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\refint\GrathProject.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\GrathProject.genruntimeconfig.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\GrathProject\GrathProject\obj\Debug\net8.0\ref\GrathProject.dll

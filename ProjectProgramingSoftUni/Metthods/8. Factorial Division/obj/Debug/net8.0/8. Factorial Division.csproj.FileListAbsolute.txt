@@ -1,0 +1,15 @@
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\bin\Debug\net8.0\8. Factorial Division.exe
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\bin\Debug\net8.0\8. Factorial Division.deps.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\bin\Debug\net8.0\8. Factorial Division.runtimeconfig.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\bin\Debug\net8.0\8. Factorial Division.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\bin\Debug\net8.0\8. Factorial Division.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.AssemblyInfoInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.AssemblyInfo.cs
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.csproj.CoreCompileInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.sourcelink.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\refint\8. Factorial Division.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\8. Factorial Division.genruntimeconfig.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\8. Factorial Division\obj\Debug\net8.0\ref\8. Factorial Division.dll

@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\bin\Debug\net8.0\10. Top Number.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\bin\Debug\net8.0\10. Top Number.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\bin\Debug\net8.0\10. Top Number.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\bin\Debug\net8.0\10. Top Number.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\bin\Debug\net8.0\10. Top Number.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\refint\10. Top Number.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\10. Top Number.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\10. Top Number\obj\Debug\net8.0\ref\10. Top Number.dll

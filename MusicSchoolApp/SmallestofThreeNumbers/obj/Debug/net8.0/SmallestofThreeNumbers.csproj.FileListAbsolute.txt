@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\bin\Debug\net8.0\SmallestofThreeNumbers.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\refint\SmallestofThreeNumbers.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\SmallestofThreeNumbers.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\SmallestofThreeNumbers\obj\Debug\net8.0\ref\SmallestofThreeNumbers.dll

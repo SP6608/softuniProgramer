@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. Smallest of Three Numbers", "1. Smallest of Three Numbers\1. Smallest of Three Numbers.csproj", "{9B66D3D3-47BE-404F-BC6D-4E48CB8773F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Password Validator", "4. Password Validator\4. Password Validator.csproj", "{A508C1CE-9FB8-4531-8ED8-ABFB99DB10A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Add and Subtract", "5. Add and Subtract\5. Add and Subtract.csproj", "{77650324-A753-4594-B8C3-BE19E5617533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8. Factorial Division", "8. Factorial Division\8. Factorial Division.csproj", "{125A49B4-F7CA-4775-B37D-1825183406BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Top Number", "10. Top Number\10. Top Number.csproj", "{810EAF3E-0FF7-4B77-B1C7-DEC823906BAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManipulator", "ArrayManipulator\ArrayManipulator.csproj", "{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B66D3D3-47BE-404F-BC6D-4E48CB8773F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B66D3D3-47BE-404F-BC6D-4E48CB8773F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B66D3D3-47BE-404F-BC6D-4E48CB8773F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B66D3D3-47BE-404F-BC6D-4E48CB8773F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A508C1CE-9FB8-4531-8ED8-ABFB99DB10A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A508C1CE-9FB8-4531-8ED8-ABFB99DB10A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A508C1CE-9FB8-4531-8ED8-ABFB99DB10A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A508C1CE-9FB8-4531-8ED8-ABFB99DB10A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77650324-A753-4594-B8C3-BE19E5617533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77650324-A753-4594-B8C3-BE19E5617533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77650324-A753-4594-B8C3-BE19E5617533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77650324-A753-4594-B8C3-BE19E5617533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{125A49B4-F7CA-4775-B37D-1825183406BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{125A49B4-F7CA-4775-B37D-1825183406BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{125A49B4-F7CA-4775-B37D-1825183406BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{125A49B4-F7CA-4775-B37D-1825183406BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{810EAF3E-0FF7-4B77-B1C7-DEC823906BAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{810EAF3E-0FF7-4B77-B1C7-DEC823906BAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{810EAF3E-0FF7-4B77-B1C7-DEC823906BAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{810EAF3E-0FF7-4B77-B1C7-DEC823906BAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31FC93FA-27D1-4B4F-A6AA-76FF4B296A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7ACCDBC8-1840-4EE2-B38F-AD0A0918B9B4}
+	EndGlobalSection
+EndGlobal

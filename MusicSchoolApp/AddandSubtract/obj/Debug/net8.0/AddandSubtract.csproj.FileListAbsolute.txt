@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\bin\Debug\net8.0\AddandSubtract.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\bin\Debug\net8.0\AddandSubtract.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\bin\Debug\net8.0\AddandSubtract.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\bin\Debug\net8.0\AddandSubtract.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\bin\Debug\net8.0\AddandSubtract.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\refint\AddandSubtract.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\AddandSubtract.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\MusicSchoolApp\AddandSubtract\obj\Debug\net8.0\ref\AddandSubtract.dll

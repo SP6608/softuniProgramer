@@ -1,0 +1,15 @@
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\bin\Debug\net8.0\1. Smallest of Three Numbers.exe
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\bin\Debug\net8.0\1. Smallest of Three Numbers.deps.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\bin\Debug\net8.0\1. Smallest of Three Numbers.runtimeconfig.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\bin\Debug\net8.0\1. Smallest of Three Numbers.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\bin\Debug\net8.0\1. Smallest of Three Numbers.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.AssemblyInfo.cs
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.sourcelink.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\refint\1. Smallest of Three Numbers.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\1. Smallest of Three Numbers.genruntimeconfig.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\1. Smallest of Three Numbers\obj\Debug\net8.0\ref\1. Smallest of Three Numbers.dll

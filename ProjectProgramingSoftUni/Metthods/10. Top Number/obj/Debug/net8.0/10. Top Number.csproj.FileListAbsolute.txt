@@ -1,0 +1,15 @@
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\bin\Debug\net8.0\10. Top Number.exe
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\bin\Debug\net8.0\10. Top Number.deps.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\bin\Debug\net8.0\10. Top Number.runtimeconfig.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\bin\Debug\net8.0\10. Top Number.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\bin\Debug\net8.0\10. Top Number.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfoInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.AssemblyInfo.cs
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.csproj.CoreCompileInputs.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.sourcelink.json
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\refint\10. Top Number.dll
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.pdb
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\10. Top Number.genruntimeconfig.cache
+D:\00 - M4 - 2025\M4---IT---2025-STUDENTSS\Metthods\10. Top Number\obj\Debug\net8.0\ref\10. Top Number.dll
