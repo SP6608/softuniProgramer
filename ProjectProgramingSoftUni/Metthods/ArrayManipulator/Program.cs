@@ -1,4 +1,5 @@
-﻿using System.Security.Authentication;
+﻿using System.ComponentModel.DataAnnotations;
+using System.Security.Authentication;
 
 namespace ArrayManipulator
 {
@@ -10,9 +11,39 @@ namespace ArrayManipulator
         static void Main()
         {
             int[]elements=Console.ReadLine().Split().Select(int.Parse).ToArray();
-            int index=int.Parse(Console.ReadLine());
-            elements=Exchange(elements,index);
-            Console.WriteLine("["+string.Join(", ",elements)+"]");
+            var command = Console.ReadLine().Split();
+            while (command[0]!="end")
+            {
+                switch (command[0])
+                {
+                    case "exchange":
+                        int index=int.Parse(command[1]);
+                        elements=Exchange(elements,index);
+                        break;
+                    case "max":
+                        string type=command[1];
+                        MaxEventOdd(elements,type);
+                        break;
+                }
+                command = Console.ReadLine().Split();
+            }
+        }
+
+        static void MaxEventOdd(int[]numbers,string type)
+        {
+            var numbersOdd=numbers.Where(x => x%2!=0).ToArray();
+            var numbersEven=numbers.Where(x=>x%2==0).ToArray();
+            if (numbersOdd.Length==0)
+            {
+                Console.WriteLine("No matches");
+                return;
+            }
+            if (numbersEven.Length == 0)
+            {
+                Console.WriteLine("No matches");
+                return;
+            }
+            
         }
 
         static int[] Exchange(int[]elements,int index)
