@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\bin\Debug\net8.0\Computer Store.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\bin\Debug\net8.0\Computer Store.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\bin\Debug\net8.0\Computer Store.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\bin\Debug\net8.0\Computer Store.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\bin\Debug\net8.0\Computer Store.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\refint\Computer Store.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\Computer Store.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\Computer Store\obj\Debug\net8.0\ref\Computer Store.dll

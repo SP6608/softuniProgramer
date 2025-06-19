@@ -1,0 +1,15 @@
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\bin\Debug\net8.0\4. List Operations.exe
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\bin\Debug\net8.0\4. List Operations.deps.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\bin\Debug\net8.0\4. List Operations.runtimeconfig.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\bin\Debug\net8.0\4. List Operations.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\bin\Debug\net8.0\4. List Operations.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.AssemblyInfoInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.AssemblyInfo.cs
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.csproj.CoreCompileInputs.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.sourcelink.json
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\refint\4. List Operations.dll
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.pdb
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\4. List Operations.genruntimeconfig.cache
+C:\Users\Multimedia2\Desktop\softuniProgramer\ProjectProgramingSoftUni\Metthods\4. List Operations\obj\Debug\net8.0\ref\4. List Operations.dll
