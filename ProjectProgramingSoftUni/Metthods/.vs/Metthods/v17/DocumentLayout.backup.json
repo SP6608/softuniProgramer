@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\ProjectProgramingSoftUni\\Metthods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{588F418C-504E-4959-8F04-E63D1C291F2D}|4. List Operations\\4. List Operations.csproj|c:\\users\\multimedia2\\desktop\\softuniprogramer\\projectprogramingsoftuni\\metthods\\4. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{588F418C-504E-4959-8F04-E63D1C291F2D}|4. List Operations\\4. List Operations.csproj|solutionrelative:4. list operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{21DFE011-BB61-4D18-A66A-191445D4175C}|Shoot for the Win\\Shoot for the Win.csproj|c:\\users\\multimedia2\\desktop\\softuniprogramer\\projectprogramingsoftuni\\metthods\\shoot for the win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21DFE011-BB61-4D18-A66A-191445D4175C}|Shoot for the Win\\Shoot for the Win.csproj|solutionrelative:shoot for the win\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\ProjectProgramingSoftUni\\Metthods\\4. List Operations\\Program.cs",
-              "RelativeDocumentMoniker": "4. List Operations\\Program.cs",
-              "ToolTip": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\ProjectProgramingSoftUni\\Metthods\\4. List Operations\\Program.cs",
-              "RelativeToolTip": "4. List Operations\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwC8AAAAhAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\ProjectProgramingSoftUni\\Metthods\\Shoot for the Win\\Program.cs",
+              "RelativeDocumentMoniker": "Shoot for the Win\\Program.cs",
+              "ToolTip": "C:\\Users\\Multimedia2\\Desktop\\softuniProgramer\\ProjectProgramingSoftUni\\Metthods\\Shoot for the Win\\Program.cs",
+              "RelativeToolTip": "Shoot for the Win\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T07:32:14.518Z",
+              "WhenOpened": "2025-06-19T08:04:18.786Z",
               "EditorCaption": ""
             }
           ]
